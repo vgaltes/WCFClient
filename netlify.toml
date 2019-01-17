@@ -6,13 +6,13 @@
 [context.production.environment]
   REGION = "eu-west-1"
   API_URL = "https://qqh3tvpcq7.execute-api.eu-west-1.amazonaws.com/prod/api"
-  USER_POOL_ID = "eu-west-1_9FCvzfhnI"
-  APP_CLIENT_ID = "1l9mc66e43qf1gb7isu0tp4j9q"
-  IDENTITY_POOL_ID = "eu-west-1:2705a461-2d37-4503-9b49-7945b0ead6d0"
+  USER_POOL_ID = "eu-west-1_XzC19OVWy"
+  APP_CLIENT_ID = "7o6i443cl28rdeu7vpsfh6ns1"
+  IDENTITY_POOL_ID = "eu-west-1:a2c4e127-f30b-480f-817a-b5bba7b8e4a0"
 
 [context.sit.environment]
   REGION = "eu-west-1"
   API_URL = "https://ci08thnyaj.execute-api.eu-west-1.amazonaws.com/sit/api"
-  USER_POOL_ID = "eu-west-1_WYhGWTNxJ"
-  APP_CLIENT_ID = "7hh25rpm0622pgfgpbd8oh7ocd"
-  IDENTITY_POOL_ID = "eu-west-1:5947c4bf-b8f2-4b7e-98e0-b47a2b888c6e"
+  USER_POOL_ID = "eu-west-1_8u1nQ5omL"
+  APP_CLIENT_ID = "7i1ck15228i8vb599jfuprogeh"
+  IDENTITY_POOL_ID = "eu-west-1:b2e4f84e-e89b-429b-aeab-5994a304d046"
