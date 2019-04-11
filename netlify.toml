@@ -6,8 +6,8 @@
 [context.production.environment]
   REGION = "eu-west-1"
   API_URL = "https://qqh3tvpcq7.execute-api.eu-west-1.amazonaws.com/prod/api"
-  USER_POOL_ID = "eu-west-1_sfduMow6n"
-  APP_CLIENT_ID = "59f82p0atjkulgta85ffcj4q25"
+  USER_POOL_ID = "eu-west-1_lqothH8kU"
+  APP_CLIENT_ID = "1f07842jq1c3ah789ase0ucro2"
 
 [context.sit.environment]
   REGION = "eu-west-1"
